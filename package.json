@@ -130,7 +130,7 @@
     "babel-jest": "^29.0.3",
     "babel-loader": "^8.2.5",
     "babel-loader-exclude-node-modules-except": "^1.2.1",
-    "css-loader": "^6.7.1",
+    "css-loader": "^6.7.3",
     "cypress": "^11.2.0",
     "cypress-wait-until": "^1.7.2",
     "dockerode": "^3.3.4",
